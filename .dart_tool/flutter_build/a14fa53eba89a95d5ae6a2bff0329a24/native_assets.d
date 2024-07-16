@@ -1,0 +1,1 @@
+ C:\\Users\\Dell\\Documents\\codecanyon-gETe6VH8-foodbank-all-in-one-multi-restaurant-food-ordering-management-system\\foodbank\\app\\merchant-app\\merchant-app\\.dart_tool\\flutter_build\\a14fa53eba89a95d5ae6a2bff0329a24\\native_assets.yaml: 
